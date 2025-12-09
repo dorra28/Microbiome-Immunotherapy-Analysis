@@ -1,0 +1,2 @@
+## References
+For the scientific basis of the sample data and workflow, see the [REFERENCES.md](REFERENCES.md) file, which includes links to peer-reviewed articles (e.g., PMC articles on gut microbiome in immunotherapy) and public databases (e.g., NCBI BioProject PRJNA397906 and HGMT). The data simulates patterns from these studies, such as higher abundances of beneficial taxa like Akkermansia muciniphila in responders to immune checkpoint inhibitors in melanoma patients.
