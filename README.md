@@ -98,7 +98,8 @@ Sample,OTU1,OTU2,OTU3,OTU4,Response
 Patient1,0.1,0.2,0.3,0.4,Responder
 Patient2,0.05,0.15,0.25,0.55,Non-Responder
 Patient3,0.2,0.3,0.1,0.4,Responder
-
+## References
+For the scientific basis of the sample data and workflow, see the [REFERENCES.md](REFERENCES.md) file, which includes links to peer-reviewed articles (e.g., PMC articles on gut microbiome in immunotherapy) and public databases (e.g., NCBI BioProject PRJNA397906 and HGMT). The data simulates patterns from these studies, such as higher abundances of beneficial taxa like Akkermansia muciniphila in responders to immune checkpoint inhibitors in melanoma patients.
 
 ## License
 MIT License 
